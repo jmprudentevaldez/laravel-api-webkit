@@ -1,0 +1,155 @@
+[
+  {
+    "reg_id": 2,
+    "code_correspondence": "0100000000",
+    "name": "Region I (Ilocos Region)",
+    "altName": "I",
+    "code": "010000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 5,
+    "code_correspondence": "0200000000",
+    "name": "Region II (Cagayan Valley)",
+    "altName": "II",
+    "code": "020000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 8,
+    "code_correspondence": "0300000000",
+    "name": "Region III (Central Luzon)",
+    "altName": "II",
+    "code": "030000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 11,
+    "code_correspondence": "0400000000",
+    "name": "Region IV-A (CALABARZON)",
+    "altName": "IV-A",
+    "code": "040000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 14,
+    "code_correspondence": "1700000000",
+    "name": "MIMAROPA Region",
+    "altName": "IV-B",
+    "code": "170000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 17,
+    "code_correspondence": "0500000000",
+    "name": "Region V (Bicol Region)",
+    "altName": "V",
+    "code": "050000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 20,
+    "code_correspondence": "0600000000",
+    "name": "Region VI (Western Visayas)",
+    "altName": "VI",
+    "code": "060000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 23,
+    "code_correspondence": "0700000000",
+    "name": "Region VII (Central Visayas)",
+    "altName": "VII",
+    "code": "070000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 26,
+    "code_correspondence": "0800000000",
+    "name": "Region VIII (Eastern Visayas)",
+    "altName": "VIII",
+    "code": "080000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 29,
+    "code_correspondence": "0900000000",
+    "name": "Region IX (Zamboanga Peninsula)",
+    "altName": "IX",
+    "code": "090000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 32,
+    "code_correspondence": "1000000000",
+    "name": "Region X (Northern Mindanao)",
+    "altName": "X",
+    "code": "100000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 35,
+    "code_correspondence": "1100000000",
+    "name": "Region XI (Davao Region)",
+    "altName": "XI",
+    "code": "110000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 38,
+    "code_correspondence": "1200000000",
+    "name": "Region XII (SOCCSKSARGEN)",
+    "altName": "XII",
+    "code": "120000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 41,
+    "code_correspondence": "1300000000",
+    "name": "National Capital Region (NCR)",
+    "altName": "NCR",
+    "code": "130000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 44,
+    "code_correspondence": "1400000000",
+    "name": "Cordillera Administrative Region (CAR)",
+    "altName": "CAR",
+    "code": "140000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 47,
+    "code_correspondence": "1600000000",
+    "name": "Region XIII (Caraga)",
+    "altName": "CARAGA",
+    "code": "160000000",
+    "geo_level": "Reg",
+    "remarks": null
+  },
+  {
+    "reg_id": 50,
+    "code_correspondence": "1900000000",
+    "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "altName": "BARMM",
+    "code": "150000000",
+    "geo_level": "Reg",
+    "remarks": null
+  }
+]
